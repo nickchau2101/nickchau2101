@@ -21,28 +21,20 @@ I am currently pursuing a Master of Science in Business Analytics at the Rochest
 ### Portfolio Risk Manager - Risk Analytics
 **HSBC** - HCMC, Vietnam  
 _Aug 2021 - Aug 2024_  
-- Communicated actionable insights from large-scale datasets to business leaders through interactive data visualization (Tableau/Power BI).
-- Spearheaded projects to automate data processing workflows using Python and Tableau, reducing data preparation time by 30%.
-- Developed and implemented machine learning models to forecast credit losses, significantly improving model accuracy.
 - Achievements: HSBC VN 24Q1 CRCO Award (2024), HSBC VN ‘At Our Best’ Recognition from CEO for Stress Testing (2023).
 
 ### Portfolio Risk Analyst - Risk Analytics
 **Citibank** - HCMC, Vietnam  
 _Feb 2019 - Aug 2021_  
-- Conducted advanced statistical analyses of retail loan portfolios valued at over $200M using SAS, SQL, and Python.
-- Engineered a Python-based approach for executive analytics, improving data visualization and decision-making processes.
 - Achievements: Citibank Staff Recognition Award (2021).
 
 ### Data Analyst
 **Home Credit** - HCMC, Vietnam  
 _May 2018 - Feb 2019_  
-- Performed exploratory data analysis (EDA) on complex datasets using SQL and Python.
-- Created 20+ dashboards to visualize core business KPIs in Tableau/Power BI.
 
 ### Analyst Intern, Future Analyst Program
 **Home Credit** - HCMC, Vietnam  
 _Nov 2017 - May 2018_  
-- Worked closely with the data engineering team to fine-tune ETL processes for regression models and reporting.
 
 ## 📂 Projects
 
