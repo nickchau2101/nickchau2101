@@ -22,7 +22,6 @@ I am currently pursuing a Master of Science in Business Analytics at the Rochest
 **HSBC** - HCMC, Vietnam  
 _Aug 2021 - Aug 2024_  
 - Achievements: HSBC VN 24Q1 CRCO Award (2024), HSBC VN ‘At Our Best’ Recognition from CEO for Stress Testing (2023).
-- ![Alt text](IMG_4013.HEIC)
 
 ### Portfolio Risk Analyst - Risk Analytics
 **Citibank** - HCMC, Vietnam  
