@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a Portfolio Risk Manager with a strong backgro
 - **Programming Languages:** Python, R, SQL, SAS
 - **Data Visualization Tools:** Tableau, Power BI, Excel
 - **Statistical Analysis Tools:** Minitab, Matplotlib, Seaborn, ggplot2
-- **Techniques:** Data Cleaning, Data Visualization, Predictive Modeling, A/B Testing, Sentiment Analysis, Regression Analysis
+- **Techniques:** Data Cleaning, Data Visualization, Data Analysis & Reporting, Dashboard Creation, Statistical Analysis, Quantitative Analysis, Predictive Modeling, A/B Testing, Sentiment Analysis, Text Mining, Regression Analysis, Hypothesis Testing, IFRS9, Stress Testing, Project Management, Portfolio Risk Management, Financial Analytics. 
+
 
 ## 🌱 Current Learning
 
