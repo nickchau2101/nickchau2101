@@ -4,18 +4,6 @@
 
 Welcome to my GitHub profile! I'm a Portfolio Risk Manager with a strong background in risk analytics and data science. I have a passion for transforming complex data into actionable insights and improving business strategies through data-driven decision-making.
 
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** Python, R, SQL, SAS
-- **Data Visualization Tools:** Tableau, Power BI, Excel
-- **Statistical Analysis Tools:** Minitab, Matplotlib, Seaborn, ggplot2
-- **Techniques:** Data Cleaning, Data Visualization, Data Analysis & Reporting, Dashboard Creation, Statistical Analysis, Quantitative Analysis, Predictive Modeling, A/B Testing, Sentiment Analysis, Text Mining, Regression Analysis, Hypothesis Testing, IFRS9, Stress Testing, Project Management, Portfolio Risk Management, Financial Analytics. 
-
-
-## 🌱 Current Learning
-
-I am currently pursuing a Master of Science in Business Analytics at the Rochester Institute of Technology, where I am enhancing my skills in advanced analytics and machine learning.
-
 ## 💼 Experience
 
 ### Portfolio Risk Manager - Risk Analytics
@@ -53,6 +41,19 @@ _May 2025_
 **Foreign Trade University** - HCMC, Vietnam  
 _Bachelor of Arts in International Business Economics_  
 _Apr 2017_
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** Python, R, SQL, SAS
+- **Data Visualization Tools:** Tableau, Power BI, Excel
+- **Statistical Analysis Tools:** Minitab, Matplotlib, Seaborn, ggplot2
+- **Techniques:** Data Cleaning, Data Visualization, Data Analysis & Reporting, Dashboard Creation, Statistical Analysis, Quantitative Analysis, Predictive Modeling, A/B Testing, Sentiment Analysis, Text Mining, Regression Analysis, Hypothesis Testing, IFRS9, Stress Testing, Project Management, Portfolio Risk Management, Financial Analytics. 
+
+
+## 🌱 Current Learning
+
+I am currently pursuing a Master of Science in Business Analytics at the Rochester Institute of Technology, where I am enhancing my skills in advanced analytics and machine learning.
+
 
 ## 📫 Get in Touch
 
